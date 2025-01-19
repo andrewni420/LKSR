@@ -1,5 +1,5 @@
 # LKSR TTP solver
-A TTP solver based on expanding possible tour changes from simple 2-opt moves to longer moves selected by the lin-kernighan algorithm
+A Traveling Thief Problem (TTP) solver for the 2024 GECCO TTP competition based on expanding the space of possible tour changes from simple 2-opt moves to longer moves selected by the Lin-Kernighan TSP algorithm
 
 ## To build
 Go to the LINKERN folder `cd LINKERN`
