@@ -1,6 +1,9 @@
 # LKSR TTP solver
 A Traveling Thief Problem (TTP) solver for the 2024 GECCO TTP competition based on expanding the space of possible tour changes from simple 2-opt moves to longer moves selected by the Lin-Kernighan TSP algorithm
 
+# Concorde TSP solver
+This repository is based on the [Concorde TSP Solver](https://www.math.uwaterloo.ca/tsp/concorde/DOC/index.html) 
+
 ## To build
 Go to the LINKERN folder `cd LINKERN`
 Make the executable `make LKSR`
