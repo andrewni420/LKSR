@@ -14,4 +14,4 @@ Example usage: `./LKSR a280_n279_bounded-strongly-corr_01.ttp 24` which will rea
 
 
 # Concorde TSP solver
-This repository is based on the [Concorde TSP Solver](https://www.math.uwaterloo.ca/tsp/concorde/DOC/index.html) 
+This repository is based on the [Concorde TSP Solver](https://www.math.uwaterloo.ca/tsp/concorde/DOC/index.html), specifically, its implementation of the Chained Lin-Kernighan heuristic for the TSP.
